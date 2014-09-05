@@ -15,4 +15,6 @@ wrapper_particles.vcxproj.user
 
 # Ignore temporal folder
 /intermediate
-/bin
+bin/particles_wrapper.exe
+bin/particles_wrapper.ilk
+bin/particles_wrapper.pdb
